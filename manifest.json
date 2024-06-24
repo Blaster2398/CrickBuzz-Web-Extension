@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "CrickBUZZ Lite",
+    "version": "1.0.0",
+    "description": "This extenion will provide you with IPL matches details ",
+    "author" : "Aryan Patel",
+    "action" :{
+        "default_popup": "index.html",
+        "default_title" : "My chrome extension"
+    },
+    "icons":{
+        "32":"icon32.png"
+    }
+
+}
