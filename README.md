@@ -72,10 +72,3 @@ This project is open source and available under the [MIT License](LICENSE).
 
 - Developed by Aryan Patel
 - Cricket data provided by [CricAPI](https://cricapi.com/)
-
-## Support
-
-For support, please open an issue in the GitHub repository or contact [your-email@example.com].
-```
-
-Feel free to copy and paste this updated README.md file into your project repository. If you need further customization or have specific elements you'd like to add, just let me know!
