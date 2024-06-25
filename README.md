@@ -60,6 +60,14 @@ This extension uses the CricAPI to fetch real-time cricket data. Replace `YOUR_A
 const response = await fetch('https://api.cricapi.com/v1/currentMatches?apikey=YOUR_API_KEY_HERE&offset=0');
 ```
 
+## Photos
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github.com/Blaster2398/CrickBuzz-Web-Extension/assets/133494008/2198986d-2693-4677-877a-0517472f0a60" alt="CrickBUZZ Lite Screenshot 1" style="width: 30%; object-fit: cover;" />
+  <img src="https://github.com/Blaster2398/CrickBuzz-Web-Extension/assets/133494008/96b5d93b-55e5-453b-957a-054163d3aa33" alt="CrickBUZZ Lite Screenshot 2" style="width: 30%; object-fit: cover;" />
+  <img src="https://github.com/Blaster2398/CrickBuzz-Web-Extension/assets/133494008/22cf05dc-aea1-4911-8859-0b571f21707e" alt="CrickBUZZ Lite Screenshot 3" style="width: 30%; object-fit: cover;" />
+</div>
+
 ## Contributing
 
 Contributions to improve CrickBUZZ Lite are welcome. Please feel free to submit a Pull Request.
@@ -72,3 +80,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 - Developed by Aryan Patel
 - Cricket data provided by [CricAPI](https://cricapi.com/)
+```
+
+This should ensure the images are of equal size, centered, and with space between them. You can copy and paste this updated README.md file into your project repository.
