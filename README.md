@@ -7,7 +7,7 @@ CrickBUZZ Lite is a Chrome extension that provides real-time updates and informa
 
 ## Features
 
-- Real-time updates of ongoing cricket matches
+- Updates of ongoing cricket matches
 - Filter matches by team
 - Sort matches by name, status, or venue
 - Detailed match information including scorecards
