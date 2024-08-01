@@ -72,14 +72,10 @@ const response = await fetch('https://api.cricapi.com/v1/currentMatches?apikey=Y
 
 Contributions to improve CrickBUZZ Lite are welcome. Please feel free to submit a Pull Request.
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## Credits
 
 - Developed by Aryan Patel
 - Cricket data provided by [CricAPI](https://cricapi.com/)
-```
 
-This should ensure the images are of equal size, centered, and with space between them. You can copy and paste this updated README.md file into your project repository.
+
